@@ -44,7 +44,7 @@ Run the program:
 - Confirm if you'd like to proceed with performance testing.
 
 ### Author
-Masoud Khanalizadehimani  
+Masoud Khanalizadeh Imani  
 Contact: [masoud.khanalizadehimani@gmail.com](mailto:masoud.khanalizadehimani@gmail.com)
 
 ### License
